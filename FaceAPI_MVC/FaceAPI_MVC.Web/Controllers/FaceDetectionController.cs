@@ -120,7 +120,7 @@ namespace FaceAPI_MVC.Web.Controllers
                         var imageInfo = UIHelper.GetImageInfoForRendering(FullImgPath);
 
                         // Create Instance of Service Client by passing Servicekey as parameter in constructor 
-                        var faceServiceClient = new FaceServiceClient(ServiceKey);
+                        var faceServiceClient = new FaceServiceClient(ServiceKey, "https://westcentralus.api.cognitive.microsoft.com/face/v1.0");
                         Face[] faces = await faceServiceClient.DetectAsync(fStream, true, true, new FaceAttributeType[] { FaceAttributeType.Gender, FaceAttributeType.Age, FaceAttributeType.Smile, FaceAttributeType.Glasses });
                         DetectedResultsInText = string.Format("{0} face(s) has been detected!!", faces.Length);
                         Bitmap CroppedFace = null;
