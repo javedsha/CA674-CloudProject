@@ -1,0 +1,214 @@
+D:\TrialProjects\FaceAPI_MVC\FaceAPI_MVC.Web\bin\roslyn\csc.exe
+D:\TrialProjects\FaceAPI_MVC\FaceAPI_MVC.Web\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\TrialProjects\FaceAPI_MVC\FaceAPI_MVC.Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\TrialProjects\FaceAPI_MVC\FaceAPI_MVC.Web\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\TrialProjects\FaceAPI_MVC\FaceAPI_MVC.Web\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\TrialProjects\FaceAPI_MVC\FaceAPI_MVC.Web\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\TrialProjects\FaceAPI_MVC\FaceAPI_MVC.Web\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\TrialProjects\FaceAPI_MVC\FaceAPI_MVC.Web\bin\roslyn\System.Collections.Immutable.dll
+D:\TrialProjects\FaceAPI_MVC\FaceAPI_MVC.Web\bin\roslyn\System.Reflection.Metadata.dll
+D:\TrialProjects\FaceAPI_MVC\FaceAPI_MVC.Web\bin\roslyn\vbc.exe
+D:\TrialProjects\FaceAPI_MVC\FaceAPI_MVC.Web\bin\roslyn\VBCSCompiler.exe
+D:\TrialProjects\FaceAPI_MVC\FaceAPI_MVC.Web\bin\roslyn\VBCSCompiler.exe.config
+D:\TrialProjects\FaceAPI_MVC\FaceAPI_MVC.Web\bin\FaceAPI_MVC.Web.dll.config
+D:\TrialProjects\FaceAPI_MVC\FaceAPI_MVC.Web\bin\FaceAPI_MVC.Web.dll
+D:\TrialProjects\FaceAPI_MVC\FaceAPI_MVC.Web\bin\FaceAPI_MVC.Web.pdb
+D:\TrialProjects\FaceAPI_MVC\FaceAPI_MVC.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\TrialProjects\FaceAPI_MVC\FaceAPI_MVC.Web\bin\Microsoft.Web.Infrastructure.dll
+D:\TrialProjects\FaceAPI_MVC\FaceAPI_MVC.Web\bin\Newtonsoft.Json.dll
+D:\TrialProjects\FaceAPI_MVC\FaceAPI_MVC.Web\bin\System.Net.Http.Formatting.dll
+D:\TrialProjects\FaceAPI_MVC\FaceAPI_MVC.Web\bin\System.Web.Helpers.dll
+D:\TrialProjects\FaceAPI_MVC\FaceAPI_MVC.Web\bin\System.Web.Http.dll
+D:\TrialProjects\FaceAPI_MVC\FaceAPI_MVC.Web\bin\System.Web.Http.WebHost.dll
+D:\TrialProjects\FaceAPI_MVC\FaceAPI_MVC.Web\bin\System.Web.Mvc.dll
+D:\TrialProjects\FaceAPI_MVC\FaceAPI_MVC.Web\bin\System.Web.Razor.dll
+D:\TrialProjects\FaceAPI_MVC\FaceAPI_MVC.Web\bin\System.Web.Webpages.Deployment.dll
+D:\TrialProjects\FaceAPI_MVC\FaceAPI_MVC.Web\bin\System.Web.Webpages.dll
+D:\TrialProjects\FaceAPI_MVC\FaceAPI_MVC.Web\bin\System.Web.Webpages.Razor.dll
+D:\TrialProjects\FaceAPI_MVC\FaceAPI_MVC.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\TrialProjects\FaceAPI_MVC\FaceAPI_MVC.Web\bin\System.Web.Razor.xml
+D:\TrialProjects\FaceAPI_MVC\FaceAPI_MVC.Web\bin\System.Web.Webpages.xml
+D:\TrialProjects\FaceAPI_MVC\FaceAPI_MVC.Web\bin\System.Web.Webpages.Deployment.xml
+D:\TrialProjects\FaceAPI_MVC\FaceAPI_MVC.Web\bin\System.Web.Webpages.Razor.xml
+D:\TrialProjects\FaceAPI_MVC\FaceAPI_MVC.Web\bin\System.Web.Helpers.xml
+D:\TrialProjects\FaceAPI_MVC\FaceAPI_MVC.Web\bin\System.Web.Mvc.xml
+D:\TrialProjects\FaceAPI_MVC\FaceAPI_MVC.Web\bin\Newtonsoft.Json.xml
+D:\TrialProjects\FaceAPI_MVC\FaceAPI_MVC.Web\bin\System.Net.Http.Formatting.xml
+D:\TrialProjects\FaceAPI_MVC\FaceAPI_MVC.Web\bin\System.Web.Http.xml
+D:\TrialProjects\FaceAPI_MVC\FaceAPI_MVC.Web\bin\System.Web.Http.WebHost.xml
+D:\TrialProjects\FaceAPI_MVC\FaceAPI_MVC.Web\obj\Debug\FaceAPI_MVC.Web.dll
+D:\TrialProjects\FaceAPI_MVC\FaceAPI_MVC.Web\obj\Debug\FaceAPI_MVC.Web.pdb
+D:\TrialProjects\FaceAPI_MVC\FaceAPI_MVC.Web\bin\Microsoft.ProjectOxford.Face.dll
+D:\TrialProjects\FaceAPI_MVC\FaceAPI_MVC.Web\obj\Debug\FaceAPI_MVC.Web.csprojResolveAssemblyReference.cache
+E:\Documents\Article\Microsoft Face Verification\FaceAPI_MVC\FaceAPI_MVC.Web\bin\roslyn\csc.exe
+E:\Documents\Article\Microsoft Face Verification\FaceAPI_MVC\FaceAPI_MVC.Web\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Documents\Article\Microsoft Face Verification\FaceAPI_MVC\FaceAPI_MVC.Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Documents\Article\Microsoft Face Verification\FaceAPI_MVC\FaceAPI_MVC.Web\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Documents\Article\Microsoft Face Verification\FaceAPI_MVC\FaceAPI_MVC.Web\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Documents\Article\Microsoft Face Verification\FaceAPI_MVC\FaceAPI_MVC.Web\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Documents\Article\Microsoft Face Verification\FaceAPI_MVC\FaceAPI_MVC.Web\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Documents\Article\Microsoft Face Verification\FaceAPI_MVC\FaceAPI_MVC.Web\bin\roslyn\System.Collections.Immutable.dll
+E:\Documents\Article\Microsoft Face Verification\FaceAPI_MVC\FaceAPI_MVC.Web\bin\roslyn\System.Reflection.Metadata.dll
+E:\Documents\Article\Microsoft Face Verification\FaceAPI_MVC\FaceAPI_MVC.Web\bin\roslyn\vbc.exe
+E:\Documents\Article\Microsoft Face Verification\FaceAPI_MVC\FaceAPI_MVC.Web\bin\roslyn\VBCSCompiler.exe
+E:\Documents\Article\Microsoft Face Verification\FaceAPI_MVC\FaceAPI_MVC.Web\bin\roslyn\VBCSCompiler.exe.config
+E:\Documents\Article\Microsoft Face Verification\FaceAPI_MVC\FaceAPI_MVC.Web\bin\FaceAPI_MVC.Web.dll.config
+E:\Documents\Article\Microsoft Face Verification\FaceAPI_MVC\FaceAPI_MVC.Web\bin\FaceAPI_MVC.Web.dll
+E:\Documents\Article\Microsoft Face Verification\FaceAPI_MVC\FaceAPI_MVC.Web\bin\FaceAPI_MVC.Web.pdb
+E:\Documents\Article\Microsoft Face Verification\FaceAPI_MVC\FaceAPI_MVC.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Documents\Article\Microsoft Face Verification\FaceAPI_MVC\FaceAPI_MVC.Web\bin\Microsoft.ProjectOxford.Face.dll
+E:\Documents\Article\Microsoft Face Verification\FaceAPI_MVC\FaceAPI_MVC.Web\bin\Microsoft.Web.Infrastructure.dll
+E:\Documents\Article\Microsoft Face Verification\FaceAPI_MVC\FaceAPI_MVC.Web\bin\Newtonsoft.Json.dll
+E:\Documents\Article\Microsoft Face Verification\FaceAPI_MVC\FaceAPI_MVC.Web\bin\System.Net.Http.Formatting.dll
+E:\Documents\Article\Microsoft Face Verification\FaceAPI_MVC\FaceAPI_MVC.Web\bin\System.Web.Helpers.dll
+E:\Documents\Article\Microsoft Face Verification\FaceAPI_MVC\FaceAPI_MVC.Web\bin\System.Web.Http.dll
+E:\Documents\Article\Microsoft Face Verification\FaceAPI_MVC\FaceAPI_MVC.Web\bin\System.Web.Http.WebHost.dll
+E:\Documents\Article\Microsoft Face Verification\FaceAPI_MVC\FaceAPI_MVC.Web\bin\System.Web.Mvc.dll
+E:\Documents\Article\Microsoft Face Verification\FaceAPI_MVC\FaceAPI_MVC.Web\bin\System.Web.Razor.dll
+E:\Documents\Article\Microsoft Face Verification\FaceAPI_MVC\FaceAPI_MVC.Web\bin\System.Web.Webpages.Deployment.dll
+E:\Documents\Article\Microsoft Face Verification\FaceAPI_MVC\FaceAPI_MVC.Web\bin\System.Web.Webpages.dll
+E:\Documents\Article\Microsoft Face Verification\FaceAPI_MVC\FaceAPI_MVC.Web\bin\System.Web.Webpages.Razor.dll
+E:\Documents\Article\Microsoft Face Verification\FaceAPI_MVC\FaceAPI_MVC.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Documents\Article\Microsoft Face Verification\FaceAPI_MVC\FaceAPI_MVC.Web\bin\Newtonsoft.Json.xml
+E:\Documents\Article\Microsoft Face Verification\FaceAPI_MVC\FaceAPI_MVC.Web\bin\System.Web.Razor.xml
+E:\Documents\Article\Microsoft Face Verification\FaceAPI_MVC\FaceAPI_MVC.Web\bin\System.Web.Webpages.xml
+E:\Documents\Article\Microsoft Face Verification\FaceAPI_MVC\FaceAPI_MVC.Web\bin\System.Web.Webpages.Deployment.xml
+E:\Documents\Article\Microsoft Face Verification\FaceAPI_MVC\FaceAPI_MVC.Web\bin\System.Web.Webpages.Razor.xml
+E:\Documents\Article\Microsoft Face Verification\FaceAPI_MVC\FaceAPI_MVC.Web\bin\System.Web.Helpers.xml
+E:\Documents\Article\Microsoft Face Verification\FaceAPI_MVC\FaceAPI_MVC.Web\bin\System.Web.Mvc.xml
+E:\Documents\Article\Microsoft Face Verification\FaceAPI_MVC\FaceAPI_MVC.Web\bin\System.Net.Http.Formatting.xml
+E:\Documents\Article\Microsoft Face Verification\FaceAPI_MVC\FaceAPI_MVC.Web\bin\System.Web.Http.xml
+E:\Documents\Article\Microsoft Face Verification\FaceAPI_MVC\FaceAPI_MVC.Web\bin\System.Web.Http.WebHost.xml
+E:\Documents\Article\Microsoft Face Verification\FaceAPI_MVC\FaceAPI_MVC.Web\obj\Debug\FaceAPI_MVC.Web.dll
+E:\Documents\Article\Microsoft Face Verification\FaceAPI_MVC\FaceAPI_MVC.Web\obj\Debug\FaceAPI_MVC.Web.pdb
+E:\Documents\Article\Microsoft Face Verification\Published\FaceAPI_MVC\FaceAPI_MVC.Web\bin\roslyn\csc.exe
+E:\Documents\Article\Microsoft Face Verification\Published\FaceAPI_MVC\FaceAPI_MVC.Web\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Documents\Article\Microsoft Face Verification\Published\FaceAPI_MVC\FaceAPI_MVC.Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Documents\Article\Microsoft Face Verification\Published\FaceAPI_MVC\FaceAPI_MVC.Web\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Documents\Article\Microsoft Face Verification\Published\FaceAPI_MVC\FaceAPI_MVC.Web\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Documents\Article\Microsoft Face Verification\Published\FaceAPI_MVC\FaceAPI_MVC.Web\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Documents\Article\Microsoft Face Verification\Published\FaceAPI_MVC\FaceAPI_MVC.Web\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Documents\Article\Microsoft Face Verification\Published\FaceAPI_MVC\FaceAPI_MVC.Web\bin\roslyn\System.Collections.Immutable.dll
+E:\Documents\Article\Microsoft Face Verification\Published\FaceAPI_MVC\FaceAPI_MVC.Web\bin\roslyn\System.Reflection.Metadata.dll
+E:\Documents\Article\Microsoft Face Verification\Published\FaceAPI_MVC\FaceAPI_MVC.Web\bin\roslyn\vbc.exe
+E:\Documents\Article\Microsoft Face Verification\Published\FaceAPI_MVC\FaceAPI_MVC.Web\bin\roslyn\VBCSCompiler.exe
+E:\Documents\Article\Microsoft Face Verification\Published\FaceAPI_MVC\FaceAPI_MVC.Web\bin\roslyn\VBCSCompiler.exe.config
+E:\Documents\Article\Microsoft Face Verification\Published\FaceAPI_MVC\FaceAPI_MVC.Web\bin\FaceAPI_MVC.Web.dll.config
+E:\Documents\Article\Microsoft Face Verification\Published\FaceAPI_MVC\FaceAPI_MVC.Web\bin\FaceAPI_MVC.Web.dll
+E:\Documents\Article\Microsoft Face Verification\Published\FaceAPI_MVC\FaceAPI_MVC.Web\bin\FaceAPI_MVC.Web.pdb
+E:\Documents\Article\Microsoft Face Verification\Published\FaceAPI_MVC\FaceAPI_MVC.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Documents\Article\Microsoft Face Verification\Published\FaceAPI_MVC\FaceAPI_MVC.Web\bin\Microsoft.ProjectOxford.Face.dll
+E:\Documents\Article\Microsoft Face Verification\Published\FaceAPI_MVC\FaceAPI_MVC.Web\bin\Microsoft.Web.Infrastructure.dll
+E:\Documents\Article\Microsoft Face Verification\Published\FaceAPI_MVC\FaceAPI_MVC.Web\bin\Newtonsoft.Json.dll
+E:\Documents\Article\Microsoft Face Verification\Published\FaceAPI_MVC\FaceAPI_MVC.Web\bin\System.Net.Http.Formatting.dll
+E:\Documents\Article\Microsoft Face Verification\Published\FaceAPI_MVC\FaceAPI_MVC.Web\bin\System.Web.Helpers.dll
+E:\Documents\Article\Microsoft Face Verification\Published\FaceAPI_MVC\FaceAPI_MVC.Web\bin\System.Web.Http.dll
+E:\Documents\Article\Microsoft Face Verification\Published\FaceAPI_MVC\FaceAPI_MVC.Web\bin\System.Web.Http.WebHost.dll
+E:\Documents\Article\Microsoft Face Verification\Published\FaceAPI_MVC\FaceAPI_MVC.Web\bin\System.Web.Mvc.dll
+E:\Documents\Article\Microsoft Face Verification\Published\FaceAPI_MVC\FaceAPI_MVC.Web\bin\System.Web.Razor.dll
+E:\Documents\Article\Microsoft Face Verification\Published\FaceAPI_MVC\FaceAPI_MVC.Web\bin\System.Web.Webpages.Deployment.dll
+E:\Documents\Article\Microsoft Face Verification\Published\FaceAPI_MVC\FaceAPI_MVC.Web\bin\System.Web.Webpages.dll
+E:\Documents\Article\Microsoft Face Verification\Published\FaceAPI_MVC\FaceAPI_MVC.Web\bin\System.Web.Webpages.Razor.dll
+E:\Documents\Article\Microsoft Face Verification\Published\FaceAPI_MVC\FaceAPI_MVC.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Documents\Article\Microsoft Face Verification\Published\FaceAPI_MVC\FaceAPI_MVC.Web\bin\Newtonsoft.Json.xml
+E:\Documents\Article\Microsoft Face Verification\Published\FaceAPI_MVC\FaceAPI_MVC.Web\bin\System.Web.Razor.xml
+E:\Documents\Article\Microsoft Face Verification\Published\FaceAPI_MVC\FaceAPI_MVC.Web\bin\System.Web.Webpages.xml
+E:\Documents\Article\Microsoft Face Verification\Published\FaceAPI_MVC\FaceAPI_MVC.Web\bin\System.Web.Webpages.Deployment.xml
+E:\Documents\Article\Microsoft Face Verification\Published\FaceAPI_MVC\FaceAPI_MVC.Web\bin\System.Web.Webpages.Razor.xml
+E:\Documents\Article\Microsoft Face Verification\Published\FaceAPI_MVC\FaceAPI_MVC.Web\bin\System.Web.Helpers.xml
+E:\Documents\Article\Microsoft Face Verification\Published\FaceAPI_MVC\FaceAPI_MVC.Web\bin\System.Web.Mvc.xml
+E:\Documents\Article\Microsoft Face Verification\Published\FaceAPI_MVC\FaceAPI_MVC.Web\bin\System.Net.Http.Formatting.xml
+E:\Documents\Article\Microsoft Face Verification\Published\FaceAPI_MVC\FaceAPI_MVC.Web\bin\System.Web.Http.xml
+E:\Documents\Article\Microsoft Face Verification\Published\FaceAPI_MVC\FaceAPI_MVC.Web\bin\System.Web.Http.WebHost.xml
+E:\Documents\Article\Microsoft Face Verification\Published\FaceAPI_MVC\FaceAPI_MVC.Web\obj\Debug\FaceAPI_MVC.Web.dll
+E:\Documents\Article\Microsoft Face Verification\Published\FaceAPI_MVC\FaceAPI_MVC.Web\obj\Debug\FaceAPI_MVC.Web.pdb
+E:\Documents\Article\Microsoft Face Verification\Published\C#Corner\FaceAPI_MVC\FaceAPI_MVC.Web\bin\roslyn\csc.exe
+E:\Documents\Article\Microsoft Face Verification\Published\C#Corner\FaceAPI_MVC\FaceAPI_MVC.Web\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Documents\Article\Microsoft Face Verification\Published\C#Corner\FaceAPI_MVC\FaceAPI_MVC.Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Documents\Article\Microsoft Face Verification\Published\C#Corner\FaceAPI_MVC\FaceAPI_MVC.Web\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Documents\Article\Microsoft Face Verification\Published\C#Corner\FaceAPI_MVC\FaceAPI_MVC.Web\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Documents\Article\Microsoft Face Verification\Published\C#Corner\FaceAPI_MVC\FaceAPI_MVC.Web\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Documents\Article\Microsoft Face Verification\Published\C#Corner\FaceAPI_MVC\FaceAPI_MVC.Web\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Documents\Article\Microsoft Face Verification\Published\C#Corner\FaceAPI_MVC\FaceAPI_MVC.Web\bin\roslyn\System.Collections.Immutable.dll
+E:\Documents\Article\Microsoft Face Verification\Published\C#Corner\FaceAPI_MVC\FaceAPI_MVC.Web\bin\roslyn\System.Reflection.Metadata.dll
+E:\Documents\Article\Microsoft Face Verification\Published\C#Corner\FaceAPI_MVC\FaceAPI_MVC.Web\bin\roslyn\vbc.exe
+E:\Documents\Article\Microsoft Face Verification\Published\C#Corner\FaceAPI_MVC\FaceAPI_MVC.Web\bin\roslyn\VBCSCompiler.exe
+E:\Documents\Article\Microsoft Face Verification\Published\C#Corner\FaceAPI_MVC\FaceAPI_MVC.Web\bin\roslyn\VBCSCompiler.exe.config
+E:\Documents\Article\Microsoft Face Verification\Published\C#Corner\FaceAPI_MVC\FaceAPI_MVC.Web\bin\FaceAPI_MVC.Web.dll.config
+E:\Documents\Article\Microsoft Face Verification\Published\C#Corner\FaceAPI_MVC\FaceAPI_MVC.Web\bin\FaceAPI_MVC.Web.dll
+E:\Documents\Article\Microsoft Face Verification\Published\C#Corner\FaceAPI_MVC\FaceAPI_MVC.Web\bin\FaceAPI_MVC.Web.pdb
+E:\Documents\Article\Microsoft Face Verification\Published\C#Corner\FaceAPI_MVC\FaceAPI_MVC.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Documents\Article\Microsoft Face Verification\Published\C#Corner\FaceAPI_MVC\FaceAPI_MVC.Web\bin\Microsoft.ProjectOxford.Face.dll
+E:\Documents\Article\Microsoft Face Verification\Published\C#Corner\FaceAPI_MVC\FaceAPI_MVC.Web\bin\Microsoft.Web.Infrastructure.dll
+E:\Documents\Article\Microsoft Face Verification\Published\C#Corner\FaceAPI_MVC\FaceAPI_MVC.Web\bin\Newtonsoft.Json.dll
+E:\Documents\Article\Microsoft Face Verification\Published\C#Corner\FaceAPI_MVC\FaceAPI_MVC.Web\bin\System.Net.Http.Formatting.dll
+E:\Documents\Article\Microsoft Face Verification\Published\C#Corner\FaceAPI_MVC\FaceAPI_MVC.Web\bin\System.Web.Helpers.dll
+E:\Documents\Article\Microsoft Face Verification\Published\C#Corner\FaceAPI_MVC\FaceAPI_MVC.Web\bin\System.Web.Http.dll
+E:\Documents\Article\Microsoft Face Verification\Published\C#Corner\FaceAPI_MVC\FaceAPI_MVC.Web\bin\System.Web.Http.WebHost.dll
+E:\Documents\Article\Microsoft Face Verification\Published\C#Corner\FaceAPI_MVC\FaceAPI_MVC.Web\bin\System.Web.Mvc.dll
+E:\Documents\Article\Microsoft Face Verification\Published\C#Corner\FaceAPI_MVC\FaceAPI_MVC.Web\bin\System.Web.Razor.dll
+E:\Documents\Article\Microsoft Face Verification\Published\C#Corner\FaceAPI_MVC\FaceAPI_MVC.Web\bin\System.Web.Webpages.Deployment.dll
+E:\Documents\Article\Microsoft Face Verification\Published\C#Corner\FaceAPI_MVC\FaceAPI_MVC.Web\bin\System.Web.Webpages.dll
+E:\Documents\Article\Microsoft Face Verification\Published\C#Corner\FaceAPI_MVC\FaceAPI_MVC.Web\bin\System.Web.Webpages.Razor.dll
+E:\Documents\Article\Microsoft Face Verification\Published\C#Corner\FaceAPI_MVC\FaceAPI_MVC.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Documents\Article\Microsoft Face Verification\Published\C#Corner\FaceAPI_MVC\FaceAPI_MVC.Web\bin\Newtonsoft.Json.xml
+E:\Documents\Article\Microsoft Face Verification\Published\C#Corner\FaceAPI_MVC\FaceAPI_MVC.Web\bin\System.Web.Razor.xml
+E:\Documents\Article\Microsoft Face Verification\Published\C#Corner\FaceAPI_MVC\FaceAPI_MVC.Web\bin\System.Web.Webpages.xml
+E:\Documents\Article\Microsoft Face Verification\Published\C#Corner\FaceAPI_MVC\FaceAPI_MVC.Web\bin\System.Web.Webpages.Deployment.xml
+E:\Documents\Article\Microsoft Face Verification\Published\C#Corner\FaceAPI_MVC\FaceAPI_MVC.Web\bin\System.Web.Webpages.Razor.xml
+E:\Documents\Article\Microsoft Face Verification\Published\C#Corner\FaceAPI_MVC\FaceAPI_MVC.Web\bin\System.Web.Helpers.xml
+E:\Documents\Article\Microsoft Face Verification\Published\C#Corner\FaceAPI_MVC\FaceAPI_MVC.Web\bin\System.Web.Mvc.xml
+E:\Documents\Article\Microsoft Face Verification\Published\C#Corner\FaceAPI_MVC\FaceAPI_MVC.Web\bin\System.Net.Http.Formatting.xml
+E:\Documents\Article\Microsoft Face Verification\Published\C#Corner\FaceAPI_MVC\FaceAPI_MVC.Web\bin\System.Web.Http.xml
+E:\Documents\Article\Microsoft Face Verification\Published\C#Corner\FaceAPI_MVC\FaceAPI_MVC.Web\bin\System.Web.Http.WebHost.xml
+E:\Documents\Article\Microsoft Face Verification\Published\C#Corner\FaceAPI_MVC\FaceAPI_MVC.Web\obj\Debug\FaceAPI_MVC.Web.csprojResolveAssemblyReference.cache
+E:\Documents\Article\Microsoft Face Verification\Published\C#Corner\FaceAPI_MVC\FaceAPI_MVC.Web\obj\Debug\FaceAPI_MVC.Web.dll
+E:\Documents\Article\Microsoft Face Verification\Published\C#Corner\FaceAPI_MVC\FaceAPI_MVC.Web\obj\Debug\FaceAPI_MVC.Web.pdb
+C:\Git\CA674-CloudProject\FaceAPI_MVC\FaceAPI_MVC.Web\obj\Debug\FaceAPI_MVC.Web.csprojResolveAssemblyReference.cache
+C:\Git\CA674-CloudProject\FaceAPI_MVC\FaceAPI_MVC.Web\obj\Debug\FaceAPI_MVC.Web.dll
+C:\Git\CA674-CloudProject\FaceAPI_MVC\FaceAPI_MVC.Web\obj\Debug\FaceAPI_MVC.Web.pdb
+C:\Git\CA674-CloudProject\FaceAPI_MVC\FaceAPI_MVC.Web\bin\roslyn\csc.exe
+C:\Git\CA674-CloudProject\FaceAPI_MVC\FaceAPI_MVC.Web\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Git\CA674-CloudProject\FaceAPI_MVC\FaceAPI_MVC.Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Git\CA674-CloudProject\FaceAPI_MVC\FaceAPI_MVC.Web\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Git\CA674-CloudProject\FaceAPI_MVC\FaceAPI_MVC.Web\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Git\CA674-CloudProject\FaceAPI_MVC\FaceAPI_MVC.Web\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Git\CA674-CloudProject\FaceAPI_MVC\FaceAPI_MVC.Web\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Git\CA674-CloudProject\FaceAPI_MVC\FaceAPI_MVC.Web\bin\roslyn\System.Collections.Immutable.dll
+C:\Git\CA674-CloudProject\FaceAPI_MVC\FaceAPI_MVC.Web\bin\roslyn\System.Reflection.Metadata.dll
+C:\Git\CA674-CloudProject\FaceAPI_MVC\FaceAPI_MVC.Web\bin\roslyn\vbc.exe
+C:\Git\CA674-CloudProject\FaceAPI_MVC\FaceAPI_MVC.Web\bin\roslyn\VBCSCompiler.exe
+C:\Git\CA674-CloudProject\FaceAPI_MVC\FaceAPI_MVC.Web\bin\roslyn\VBCSCompiler.exe.config
+C:\Git\CA674-CloudProject\FaceAPI_MVC\FaceAPI_MVC.Web\bin\FaceAPI_MVC.Web.dll.config
+C:\Git\CA674-CloudProject\FaceAPI_MVC\FaceAPI_MVC.Web\bin\FaceAPI_MVC.Web.dll
+C:\Git\CA674-CloudProject\FaceAPI_MVC\FaceAPI_MVC.Web\bin\FaceAPI_MVC.Web.pdb
+C:\Git\CA674-CloudProject\FaceAPI_MVC\FaceAPI_MVC.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Git\CA674-CloudProject\FaceAPI_MVC\FaceAPI_MVC.Web\bin\Microsoft.ProjectOxford.Face.dll
+C:\Git\CA674-CloudProject\FaceAPI_MVC\FaceAPI_MVC.Web\bin\Microsoft.Web.Infrastructure.dll
+C:\Git\CA674-CloudProject\FaceAPI_MVC\FaceAPI_MVC.Web\bin\Newtonsoft.Json.dll
+C:\Git\CA674-CloudProject\FaceAPI_MVC\FaceAPI_MVC.Web\bin\System.Net.Http.Formatting.dll
+C:\Git\CA674-CloudProject\FaceAPI_MVC\FaceAPI_MVC.Web\bin\System.Web.Helpers.dll
+C:\Git\CA674-CloudProject\FaceAPI_MVC\FaceAPI_MVC.Web\bin\System.Web.Http.dll
+C:\Git\CA674-CloudProject\FaceAPI_MVC\FaceAPI_MVC.Web\bin\System.Web.Http.WebHost.dll
+C:\Git\CA674-CloudProject\FaceAPI_MVC\FaceAPI_MVC.Web\bin\System.Web.Mvc.dll
+C:\Git\CA674-CloudProject\FaceAPI_MVC\FaceAPI_MVC.Web\bin\System.Web.Razor.dll
+C:\Git\CA674-CloudProject\FaceAPI_MVC\FaceAPI_MVC.Web\bin\System.Web.Webpages.Deployment.dll
+C:\Git\CA674-CloudProject\FaceAPI_MVC\FaceAPI_MVC.Web\bin\System.Web.Webpages.dll
+C:\Git\CA674-CloudProject\FaceAPI_MVC\FaceAPI_MVC.Web\bin\System.Web.Webpages.Razor.dll
+C:\Git\CA674-CloudProject\FaceAPI_MVC\FaceAPI_MVC.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Git\CA674-CloudProject\FaceAPI_MVC\FaceAPI_MVC.Web\bin\Newtonsoft.Json.xml
+C:\Git\CA674-CloudProject\FaceAPI_MVC\FaceAPI_MVC.Web\bin\System.Web.Razor.xml
+C:\Git\CA674-CloudProject\FaceAPI_MVC\FaceAPI_MVC.Web\bin\System.Web.Webpages.xml
+C:\Git\CA674-CloudProject\FaceAPI_MVC\FaceAPI_MVC.Web\bin\System.Web.Webpages.Deployment.xml
+C:\Git\CA674-CloudProject\FaceAPI_MVC\FaceAPI_MVC.Web\bin\System.Web.Webpages.Razor.xml
+C:\Git\CA674-CloudProject\FaceAPI_MVC\FaceAPI_MVC.Web\bin\System.Web.Helpers.xml
+C:\Git\CA674-CloudProject\FaceAPI_MVC\FaceAPI_MVC.Web\bin\System.Web.Mvc.xml
+C:\Git\CA674-CloudProject\FaceAPI_MVC\FaceAPI_MVC.Web\bin\System.Net.Http.Formatting.xml
+C:\Git\CA674-CloudProject\FaceAPI_MVC\FaceAPI_MVC.Web\bin\System.Web.Http.xml
+C:\Git\CA674-CloudProject\FaceAPI_MVC\FaceAPI_MVC.Web\bin\System.Web.Http.WebHost.xml
+C:\Git\CA674-CloudProject\FaceAPI_MVC\FaceAPI_MVC.Web\obj\Debug\FaceAPI_MVC.Web.csproj.App.config
+C:\Git\CA674-CloudProject\FaceAPI_MVC\FaceAPI_MVC.Web\bin\Microsoft.ProjectOxford.Common.dll
+C:\Git\CA674-CloudProject\FaceAPI_MVC\FaceAPI_MVC.Web\bin\System.Net.Http.Extensions.dll
+C:\Git\CA674-CloudProject\FaceAPI_MVC\FaceAPI_MVC.Web\bin\System.Net.Http.Primitives.dll
+C:\Git\CA674-CloudProject\FaceAPI_MVC\FaceAPI_MVC.Web\bin\System.Net.Http.Extensions.xml
+C:\Git\CA674-CloudProject\FaceAPI_MVC\FaceAPI_MVC.Web\bin\System.Net.Http.Primitives.xml
