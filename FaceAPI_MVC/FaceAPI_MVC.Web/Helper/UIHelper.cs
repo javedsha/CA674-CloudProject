@@ -73,6 +73,23 @@ namespace FaceAPI_MVC.Web.Helper
                 return new Tuple<int, int>(0, 0);
             }
         }
+
+        public static Tuple<int, int> GetImageInfoForRenderingFromStream(Stream stream)
+        {
+            try
+            {
+                JpegBitmapDecoder decoder = new JpegBitmapDecoder(stream, BitmapCreateOptions.None, BitmapCacheOption.None);
+                var frame = decoder.Frames.First();
+
+                // Store image width and height for following rendering
+                return new Tuple<int, int>(frame.PixelWidth, frame.PixelHeight);
+            }
+            catch
+            {
+                return new Tuple<int, int>(0, 0);
+            }
+        }
+
         #endregion Methods
     }
 }

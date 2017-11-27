@@ -914,14 +914,18 @@
   <ItemGroup>
     <Compile Include="App_Start\RouteConfig.cs" />
     <Compile Include="App_Start\WebApiConfig.cs" />
+    <Compile Include="BlobHelper.cs" />
     <Compile Include="Controllers\FaceDetectionController.cs" />
     <Compile Include="Controllers\HomeController.cs" />
+    <Compile Include="Controllers\MultiFaceDetectionController.cs" />
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>
     </Compile>
     <Compile Include="Helper\UIHelper.cs" />
+    <Compile Include="Models\MultiFaceDetectionModal.cs" />
     <Compile Include="Models\vmFace.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="RestHelper.cs" />
   </ItemGroup>
   <ItemGroup>
     <Content Include="Views\web.config" />
@@ -933,6 +937,7 @@
     <Content Include="fonts\glyphicons-halflings-regular.eot" />
     <Content Include="Scripts\jquery-1.10.2.min.map" />
     <Content Include="Views\FaceDetection\Index.cshtml" />
+    <Content Include="Views\MultiFaceDetection\Index.cshtml" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>
