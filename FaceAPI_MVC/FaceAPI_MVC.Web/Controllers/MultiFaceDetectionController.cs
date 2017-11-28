@@ -65,7 +65,7 @@ namespace FaceAPI_MVC.Web.Controllers
 
                     using (WebClient client = new WebClient())
                     {
-                        byte[] fileBytes = client.DownloadData(string.Concat("http://faceapiweu.blob.core.windows.net/cloudprojectsampleimages/", images[i]));
+                        byte[] fileBytes = client.DownloadData(string.Concat("https://faceapiweustorage.blob.core.windows.net/cloudprojectsampleimages/", images[i]));
 
                         bool exists = System.IO.Directory.Exists(Server.MapPath(directory));
                         if (!exists)
@@ -86,7 +86,7 @@ namespace FaceAPI_MVC.Web.Controllers
 
                         System.IO.File.WriteAllBytes(imageFullPath, fileBytes);
 
-                        using (var stream = client.OpenRead(string.Concat("http://faceapiweu.blob.core.windows.net/cloudprojectsampleimages/", images[i])))
+                        using (var stream = client.OpenRead(string.Concat("https://faceapiweustorage.blob.core.windows.net/cloudprojectsampleimages/", images[i])))
                         {
                             Face[] faces = await faceServiceClient.DetectAsync(stream, true, true, new FaceAttributeType[] { FaceAttributeType.Gender, FaceAttributeType.Age, FaceAttributeType.Smile, FaceAttributeType.Glasses });
 
