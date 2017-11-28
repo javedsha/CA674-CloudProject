@@ -7,3 +7,5 @@
 /FaceAPI_MVC.Web/bin
 /FaceAPI_MVC.Web/obj
 /packages/**/*/*.*
+/FaceAPI_MVC.Web/MultiDetectedFiles
+/FaceAPI_MVC.Web/UploadedFiles
