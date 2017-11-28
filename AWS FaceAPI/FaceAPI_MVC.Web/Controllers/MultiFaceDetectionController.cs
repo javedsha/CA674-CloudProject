@@ -43,29 +43,32 @@ namespace FaceAPI_MVC.Web.Controllers
         {
             try
             {
-                // Step 1. Get images from blob storage.
-                BlobHelper BlobHelper = new BlobHelper(StorageAccount, StorageKey);
-
-                List<string> blobs = BlobHelper.ListBlobs(Container);
-
-                List<string> images = new List<string>();
-
-                foreach (var blobName in blobs)
+                // Step 1. Get images from AWS S3 storage.
+                List<string> imagesNames = new List<string>
                 {
-                    images.Add(blobName);
-                }
+                    "Deepika_5.jpg",
+                    "deepika-padukone-story_647_112417055722.jpg",
+                    "Disha_Patani_promotes_M.S._Dhoni_–_The_Untold_Story_(05).jpg",
+                    "Disha-Patani-1.jpg",
+                    "elizabeth-olsen-explains-why-singing-badly-on-purpose-for-her-new-movie-was-freeing.jpg",
+                    "female-superheroes-black-widow.jpg",
+                    "olsens.jpg",
+                    "Scarlett_Johansson_in_Kuwait_01b-tweaked.jpg",
+                    "alexandra_daddario_2015-wide.jpg",
+                    "Jacqueline-Fernandez.jpg"
+                };
 
                 // Step 2. For each image, run the face api detection algorithm.
                 var faceServiceClient = new FaceServiceClient(ServiceKey, "https://westcentralus.api.cognitive.microsoft.com/face/v1.0");
 
-                for (int i = 0; i < blobs.Count; i++)
+                for (int i = 0; i < imagesNames.Count; i++)
                 {
                     var detectedFaces = new ObservableCollection<vmFace>();
                     var resultCollection = new ObservableCollection<vmFace>();
 
                     using (WebClient client = new WebClient())
                     {
-                        byte[] fileBytes = client.DownloadData(string.Concat("http://faceapiweu.blob.core.windows.net/cloudprojectsampleimages/", images[i]));
+                        byte[] fileBytes = client.DownloadData(string.Concat("https://s3-eu-west-1.amazonaws.com/faceapiimages/", imagesNames[i]));
 
                         bool exists = System.IO.Directory.Exists(Server.MapPath(directory));
                         if (!exists)
@@ -80,13 +83,13 @@ namespace FaceAPI_MVC.Web.Controllers
                             }
                         }
 
-                        string imageRelativePath = "../MultiDetectedFiles" + '/' + images[i];
+                        string imageRelativePath = "../MultiDetectedFiles" + '/' + imagesNames[i];
 
-                        string imageFullPath = Server.MapPath(directory) + '/' + images[i] as string;
+                        string imageFullPath = Server.MapPath(directory) + '/' + imagesNames[i] as string;
 
                         System.IO.File.WriteAllBytes(imageFullPath, fileBytes);
 
-                        using (var stream = client.OpenRead(string.Concat("http://faceapiweu.blob.core.windows.net/cloudprojectsampleimages/", images[i])))
+                        using (var stream = client.OpenRead(string.Concat("https://s3-eu-west-1.amazonaws.com/faceapiimages/", imagesNames[i])))
                         {
                             Face[] faces = await faceServiceClient.DetectAsync(stream, true, true, new FaceAttributeType[] { FaceAttributeType.Gender, FaceAttributeType.Age, FaceAttributeType.Smile, FaceAttributeType.Glasses });
 
@@ -112,7 +115,7 @@ namespace FaceAPI_MVC.Web.Controllers
                                 detectedFaces.Add(new vmFace()
                                 {
                                     ImagePath = imageRelativePath,
-                                    FileName = images[i],
+                                    FileName = imagesNames[i],
                                     FilePath = croppedImgPath,
                                     Left = face.FaceRectangle.Left,
                                     Top = face.FaceRectangle.Top,
