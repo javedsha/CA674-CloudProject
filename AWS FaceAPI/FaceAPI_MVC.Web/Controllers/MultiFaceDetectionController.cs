@@ -28,9 +28,6 @@ namespace FaceAPI_MVC.Web.Controllers
 
         private static string directory = "~/MultiDetectedFiles";
 
-        private ObservableCollection<vmFace> _detectedFaces = new ObservableCollection<vmFace>();
-        private ObservableCollection<vmFace> _resultCollection = new ObservableCollection<vmFace>();
-
         private MultiFaceDetectionModal finalModal = new MultiFaceDetectionModal();
 
         public int MaxImageSize
@@ -38,21 +35,6 @@ namespace FaceAPI_MVC.Web.Controllers
             get
             {
                 return 450;
-            }
-        }
-
-        public ObservableCollection<vmFace> DetectedFaces
-        {
-            get
-            {
-                return _detectedFaces;
-            }
-        }
-        public ObservableCollection<vmFace> ResultCollection
-        {
-            get
-            {
-                return _resultCollection;
             }
         }
 
@@ -78,6 +60,9 @@ namespace FaceAPI_MVC.Web.Controllers
 
                 for (int i = 0; i < blobs.Count; i++)
                 {
+                    var detectedFaces = new ObservableCollection<vmFace>();
+                    var resultCollection = new ObservableCollection<vmFace>();
+
                     using (WebClient client = new WebClient())
                     {
                         byte[] fileBytes = client.DownloadData(string.Concat("http://faceapiweu.blob.core.windows.net/cloudprojectsampleimages/", images[i]));
@@ -95,19 +80,14 @@ namespace FaceAPI_MVC.Web.Controllers
                             }
                         }
 
+                        string imageRelativePath = "../MultiDetectedFiles" + '/' + images[i];
+
                         string imageFullPath = Server.MapPath(directory) + '/' + images[i] as string;
 
                         System.IO.File.WriteAllBytes(imageFullPath, fileBytes);
 
                         using (var stream = client.OpenRead(string.Concat("http://faceapiweu.blob.core.windows.net/cloudprojectsampleimages/", images[i])))
                         {
-                            //string imageFullPath = "";
-                            //using (Bitmap bmp = new Bitmap(stream))
-                            //{
-                            //    imageFullPath = Server.MapPath(directory) + "/original/" + images[i] as string;
-                            //    bmp.Save(imageFullPath, ImageFormat.Jpeg);
-                            //}
-
                             Face[] faces = await faceServiceClient.DetectAsync(stream, true, true, new FaceAttributeType[] { FaceAttributeType.Gender, FaceAttributeType.Age, FaceAttributeType.Smile, FaceAttributeType.Glasses });
 
                             Bitmap CroppedFace = null;
@@ -129,10 +109,10 @@ namespace FaceAPI_MVC.Web.Controllers
                                 if (CroppedFace != null)
                                     ((IDisposable)CroppedFace).Dispose();
 
-                                DetectedFaces.Add(new vmFace()
+                                detectedFaces.Add(new vmFace()
                                 {
-                                    ImagePath = null,
-                                    FileName = croppedImg,
+                                    ImagePath = imageRelativePath,
+                                    FileName = images[i],
                                     FilePath = croppedImgPath,
                                     Left = face.FaceRectangle.Left,
                                     Top = face.FaceRectangle.Top,
@@ -151,10 +131,10 @@ namespace FaceAPI_MVC.Web.Controllers
                             var rectFaces = UIHelper.CalculateFaceRectangleForRendering(faces, MaxImageSize, imageInfo);
                             foreach (var face in rectFaces)
                             {
-                                ResultCollection.Add(face);
+                                resultCollection.Add(face);
                             }
 
-                            var faceModal = new FaceDetectionModal { DetectedFaces = DetectedFaces, ResultCollection = ResultCollection };
+                            var faceModal = new FaceDetectionModal { DetectedFaces = detectedFaces, ResultCollection = resultCollection };
 
                             this.finalModal.Items.Add(faceModal);
                         }

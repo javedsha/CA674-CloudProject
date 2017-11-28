@@ -40,9 +40,13 @@
 
         @foreach (var item in Model.Items)
         {
-            int index = 0;
+            <h3>@string.Concat("Image Name - ", item.DetectedFaces[0].FileName)</h3>
 
-            <h3>@string.Concat("Image - ", index)</h3>
+            <h5>Original Image</h5>
+
+            <img src="@item.DetectedFaces[0].ImagePath" style="width:400px;height:auto" />
+
+            <h5>Detected Faces</h5>
 
             foreach (var face in item.DetectedFaces)
             {
